@@ -26,5 +26,5 @@ jobs:
         with:
           apiToken: 3IZoL8cv8fUZWP9zlb4r0Gbtx60nmoJk0ulUn6TC
           accountId: a20e917fb1abad3e0865636620e04c90
-          projectName: 'gifideasxdf'  # Ganti dengan nama proyek Cloudflare Pages Anda
+          projectName: 'gifideasvx'  # Ganti dengan nama proyek Cloudflare Pages Anda
           directory: 'public'
